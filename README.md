@@ -15,8 +15,8 @@
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/username/docq.git
-cd docq
+git clone https://github.com/username/DocQ.git
+cd DocQ
 ```
 
 ### **2. Install Dependencies**
