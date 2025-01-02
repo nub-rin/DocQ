@@ -38,8 +38,8 @@ streamlit run app.py
 ---
 
 ## Usage
-1. **Upload Documents:** Use the sidebar to upload PDFs, spreadsheets, docs or directly from the web.
-2. **Ask Questions:** Enter your query in the input box.
+1. **Upload Documents:** Use the sidebar to upload PDFs, Spreadsheets or CSVs, docs or directly from the web.
+2. **Ask Questions:** Enter your query/questions in the input box.
 3. **Get Answers:** View responses based on your document.
 
 ---
@@ -48,7 +48,7 @@ streamlit run app.py
 - **Python**: Core programming language.
 - **OpenAI GPT Models**: For natural language processing.
 - **Streamlit**: User interface framework.
-- **Sentence-Transformers**: For embedding generation.
+- **OpenAI Embeddings**: For embedding generation.
 - **OCR**: For extracting text from images.
 
 ---
