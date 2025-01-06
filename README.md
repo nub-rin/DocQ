@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 Create a `.env` file in the root directory and add the following:
 ```
-OPENAI_API_KEY="your_openai_api_key"
+OPENAI_API_KEY='sk-your_openai_api_key'
 ``` 
 
 ### **4. Run the Application**
