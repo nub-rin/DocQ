@@ -14,23 +14,27 @@
 ## Getting Started
 
 ### **1. Clone the Repository**
+
 ```bash
 git clone https://github.com/username/DocQ.git
 cd DocQ
 ```
 
 ### **2. Install Dependencies**
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### **3. Set Environment Variables**
+
 Create a `.env` file in the root directory and add the following:
 ```
 OPENAI_API_KEY="your_openai_api_key"
 ``` 
 
 ### **4. Run the Application**
+
 ```bash
 streamlit run app.py
 ```
