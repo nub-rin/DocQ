@@ -1,4 +1,4 @@
-# DocQ - AI-Powered Document Q&A Assistant
+# DocQ | AI-Powered Document Q&A Assistant
 
 **DocQ** is an AI-powered assistant designed to help you extract insights from documents effortlessly. Whether you're dealing with PDFs, spreadsheets, or images, DocQ uses advanced AI to analyze content and provide accurate answers based on user questions.
 
